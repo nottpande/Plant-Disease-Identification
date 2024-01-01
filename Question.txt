@@ -1,0 +1,22 @@
+AtliQ Agriculture, an AI company specializing in addressing agricultural challenges, has undertaken a project to develop a mobile application that aids farmers in identifying and managing diseases affecting their potato and tomato crops. The application allows users to capture images of their crops, which are then analyzed to provide information on the type of disease affecting the plants.
+
+The common diseases in this scenario are:
+1. Pepper (Bell) - Bacterial Spot
+2. Potato - Early Blight
+3. Potato - Late Blight
+4. Tomato - Bacterial Spot
+5. Tomato - Early Blight
+6. Tomato - Late Blight
+7. Tomato - Leaf Mold
+8. Tomato - Septoria Leaf Spot
+9. Tomato - Spider Mites Two-Spotted Spider Mite
+10. Tomato - Target Spot
+11. Tomato - Tomato Yellow Leaf Curl Virus
+12. Tomato - Tomato Mosaic Virus
+
+
+The AtliQ Agriculture mobile application aims to enable early detection of these diseases, allowing farmers to apply appropriate treatments promptly, thereby minimizing waste and preventing economic losses. The treatment for early blight differs from that for late blight, underscoring the importance of accurately identifying the specific disease affecting the potato plants.
+
+As a Machine Learning Engineer at AtliQ Agriculture, your task is to build a deep-learning model for this mobile application. The model should be trained to accurately classify images into their respective category.
+
+The deep-learning model should be designed to accurately distinguish between these classes, facilitating precise disease identification for effective crop management.
